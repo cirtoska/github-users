@@ -1,10 +1,15 @@
 import React from "react";
+import Header from "./components/Header";
+import GithubUsers from "./components/GithubUsers";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div>
-      <h1>Github Users</h1>
-    </div>
+    <>
+      <Header />
+      <GithubUsers />
+      <Footer />
+    </>
   );
 }
 

@@ -1,4 +1,8 @@
-# Live preview of this app https://calm-melba-838062.netlify.app/
+# Fetch Github Users
+
+This project is just a list of github users using API from https://api.github.com/users. I was using react hooks for fetching the users from the API.
+
+### Live preview of this app https://calm-melba-838062.netlify.app/
 
 # Getting Started with Create React App
 
